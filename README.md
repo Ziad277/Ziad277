@@ -7,11 +7,11 @@
 ---
 
 ## 🚀 About Me  
-- 🔹 AI student specializing in **Machine Learning, Deep Learning, Computer Vision, and NLP**.    
-- 🔹 Experienced with building **AI systems** (Weapon Detection, OCR, Heart Disease Prediction, License Plate Recognition).  
-- 🔹 Skilled in **Python, PyQt, TensorFlow, Keras, YOLOv8, OpenCV, and PyTorch**.  
-- 🔹 Interested in **AI**, **Sustainable Computing**, and **Intelligent Systems**.
-- 🔹Building AI voice/chat agents.
+-  AI student specializing in **Machine Learning, Deep Learning, Computer Vision, and NLP**.    
+-  Experienced with building **AI systems** (Weapon Detection, OCR, Heart Disease Prediction, License Plate Recognition).  
+-  Skilled in **Python, PyQt, TensorFlow, Keras, YOLOv8, OpenCV, and PyTorch**.  
+-  Interested in **AI**, **Sustainable Computing**, and **Intelligent Systems**.
+- Building AI voice/chat agents.
 
 ---
 
